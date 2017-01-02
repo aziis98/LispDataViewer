@@ -1,0 +1,5 @@
+(
+    (box :color "red" :position (10 15))
+    (box :color "blue" :position (7 5))
+    (circle :color "magenta" :position (13 2))
+)
